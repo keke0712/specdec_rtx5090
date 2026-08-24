@@ -1,0 +1,18 @@
+{
+  "label": "default_vllm_formal",
+  "concurrencies": [
+    1,
+    4,
+    16
+  ],
+  "prewarm_waves": 2,
+  "measure_waves": 10,
+  "min_runs": 64,
+  "telemetry_interval_s": 0.2,
+  "started_local": "20260822_184609",
+  "completed": [
+    1,
+    4,
+    16
+  ]
+}

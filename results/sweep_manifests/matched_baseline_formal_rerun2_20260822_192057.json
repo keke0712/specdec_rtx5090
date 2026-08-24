@@ -1,0 +1,16 @@
+{
+  "label": "matched_baseline_formal_rerun2",
+  "concurrencies": [
+    4,
+    16
+  ],
+  "prewarm_waves": 2,
+  "measure_waves": 10,
+  "min_runs": 64,
+  "telemetry_interval_s": 0.2,
+  "started_local": "20260822_192057",
+  "completed": [
+    4,
+    16
+  ]
+}

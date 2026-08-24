@@ -1,0 +1,24 @@
+{
+  "label": "specdec_k5_formal",
+  "concurrencies": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "prewarm_waves": 2,
+  "measure_waves": 10,
+  "min_runs": 64,
+  "telemetry_interval_s": 0.2,
+  "started_local": "20260817_170221",
+  "completed": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ]
+}
