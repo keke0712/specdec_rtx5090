@@ -1,24 +1,5 @@
-.claude/
 __pycache__/
 *.pyc
 .DS_Store
 
-# internal process notes, not part of the deliverable
-REPORT_PLAN.md
-CODE_AUDIT_PROGRESS.md
-
-# archive/: keep local as personal record, but only push the two
-# scripts referenced by name in README.md section 8 (the KV-cache bug)
-archive/early_results/
-archive/legacy_outputs/
-archive/client.py
-archive/stream_client.py
-archive/stream_debug.py
-archive/smoke_test.py
-archive/analyze_baseline.py
-archive/plot_baseline.py
-archive/result_client.py
-archive/run_sweep_v1.py
-archive/run_sweep_v2.py
-archive/run_sweep_v3.py
-README.zh.md
+*.log
